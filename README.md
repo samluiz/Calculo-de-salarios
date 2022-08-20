@@ -4,7 +4,7 @@
 
 ## Hierarquias
 
-- Chefe, Empregado, VendedorExterno, Estagiario extends Funcionario implements InterfaceFunc
+- Chefe, Empregado, Estagiario extends Funcionario implements InterfaceFunc
 
 ## CHEFE
 
